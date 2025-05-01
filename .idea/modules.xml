@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/build_llm_from_scrath.iml" filepath="$PROJECT_DIR$/.idea/build_llm_from_scrath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/chentao.iml" filepath="$PROJECT_DIR$/.idea/chentao.iml" />
     </modules>
   </component>
 </project>
